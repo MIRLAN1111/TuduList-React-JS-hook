@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Creepster&display=swap');
+
+.TextStyled{
+  font-family: "Creepster", system-ui;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 48px; 
+  background: linear-gradient(to right, #ff00cc, #3333ff); 
+  -webkit-background-clip: text; 
+  background-clip: text;
+  color: transparent;
+}
